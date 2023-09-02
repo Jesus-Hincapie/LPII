@@ -1,0 +1,34 @@
+.pequeno{
+    background-color:red;
+    width: 500px;
+    height: 80px;
+}
+#primer-h1{
+    color: aliceblue;
+}
+#parrafo{
+    color: blue;
+    font-size: 25px;
+}
+#div-ejemplo{
+    position: relative;
+    margin-top: 30px;
+    border: 10px solid orange;
+    width: 50em;
+    font-size: 50px;
+    padding: 10px;
+}
+#div-ejemplo div{
+    font-size: 5em;
+}
+#green{
+    background-color: green;
+    width: 40%;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+    width: 15%;
+}
